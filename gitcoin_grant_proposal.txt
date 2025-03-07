@@ -1,0 +1,39 @@
+# 🏆 Gitcoin Grant Proposal – Decentralized Social Media Platform
+
+## 📌 Summary  
+This project is an **open-source, blockchain-based social media platform** that ensures **free speech & decentralization** while enforcing **KYC verification** for user accountability. Built on **Polygon** with **IPFS/Arweave**, it provides a censorship-resistant environment for digital expression.  
+
+## 🌟 Why This Matters  
+Social media platforms today are heavily centralized, leading to **censorship, data control, and biased moderation**. Our platform ensures:  
+- **Decentralized content ownership** (users own their posts).  
+- **Immutable records on the blockchain** (no deletions or manipulations).  
+- **KYC verification for accountability** (no bot/spam accounts).  
+
+## 💰 Funding Goals  
+We seek funding to:  
+1. **Develop & deploy smart contracts on Polygon**.  
+2. **Integrate Civic API for KYC verification**.  
+3. **Build a Web3 frontend with IPFS/Arweave storage**.  
+4. **Optimize for Progressive Web App (PWA) support**.  
+
+## 👥 Why Support Us?  
+Your contribution will help:  
+- **Accelerate development & open-source adoption**.  
+- **Build a censorship-resistant platform for free speech**.  
+- **Empower communities with decentralized ownership**.  
+
+## 🔗 Grant Details  
+- **Platform**: Gitcoin Grants (Ethereum/Polygon)  
+- **Funding Mechanism**: Quadratic Funding / Direct Donations  
+- **Public Good?** ✅ Yes  
+
+## 📩 Join Us!  
+We’re looking for **developers, Web3 experts, and supporters** to build this platform! Join our GitHub & contribute.  
+
+---  
+
+### **Next Steps**  
+1. Upload the **improved README.md** to your GitHub repository.  
+2. Create a **Gitcoin Grant** on [Gitcoin.co](https://gitcoin.co/) and submit this proposal.  
+3. Start attracting open-source contributors!  
+
