@@ -1,0 +1,17 @@
+# Developer Guide
+
+## Setting Up
+1. Install **Node.js** and **npm**.
+2. Install **Metamask** and switch to **Polygon Mumbai Testnet**.
+3. Deploy the smart contract using Hardhat:
+   ```sh
+   npx hardhat run scripts/deploy.js --network mumbai
+   ```
+
+## Integration
+- **Frontend:** Next.js handles Web3 authentication.
+- **Storage:** Use Web3.Storage for decentralized media hosting.
+
+## Community & Support
+Join our Discord/Reddit for discussions and contributions!
+    
